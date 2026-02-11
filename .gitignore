@@ -1,0 +1,9 @@
+/outputs
+*.txt
+*.mp4
+*.json
+*.log
+*.pyc
+__pycache__/
+!requirements_cpu.txt
+!requirements_gpu.txt
